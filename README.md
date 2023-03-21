@@ -22,6 +22,9 @@
 
 <p>In some stages, Holly must correctly answer trivia questions at the end of the stage in order to move on to the next stage.</p>
 
+### Formal elements
+*Here you can find the formal elements of the game [formal_elements](formal-elements.md)*
+
 <h2>Rules and Conflicts</h2>
 
 <p>For each goal in the game, there are different rules. The game has various obstacles that prevent the player from completing the task such as collecting the chametz on Passover. In some of the collection tasks, the player will have to meet deadlines and make decisions on how to complete the task and meet the required time.</p>
