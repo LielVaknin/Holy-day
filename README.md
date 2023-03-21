@@ -1,4 +1,4 @@
-# Holi-day
+# Holy-day
 
 <p>This is an educational adventure game that teaches the characteristics of the holidays and traditions of the Jewish people. The game illustrates the various elements of the Israeli holidays while training existing skills and acquiring new skills.</p>
 
