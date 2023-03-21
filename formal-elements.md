@@ -105,5 +105,12 @@
 הרכיב הרשמי אשר ידגיש את הייחוד והמקוריות של המשחק שלנו הוא הפן החינוכי אשר מלמד לגבי חגי ישראל וכן העימותים במשחק אשר גורמים למשחק להיות יותר אטרקטיבי.
 
 
+![image](https://user-images.githubusercontent.com/74235390/226669982-abb659cd-f3a4-4593-9b5e-e0341dc0e31d.png)
+ 
+ ![image](https://user-images.githubusercontent.com/74235390/226670065-2f59b09f-14a7-4a99-80d4-f2ffc331f965.png)
+ 
+ ![image](https://user-images.githubusercontent.com/74235390/226670100-c9e25266-1433-422c-833b-091b52910ace.png)
+
+
 
 </div>
