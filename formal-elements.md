@@ -1,6 +1,6 @@
 <div dir='rtl' lang='he'>
 
-# Holy-day.
+# Holy-day
 
 **"Immerse yourself in Israel's rich traditions and holidays with our fun and educational game!"**
 
