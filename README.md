@@ -1,5 +1,7 @@
 # Holy-day
 
+https://user-images.githubusercontent.com/73184238/234121760-474d74ab-7fa8-47be-ab41-14b8172557bc.mp4
+
 <p>This is an educational adventure game that teaches the characteristics of the holidays and traditions of the Jewish people. The game illustrates the various elements of the Israeli holidays while training existing skills and acquiring new skills.</p>
 
 <h2>Getting Started</h2>
